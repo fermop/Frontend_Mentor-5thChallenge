@@ -2,6 +2,8 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+![sample](./assets/video/sample.gif)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -24,13 +26,17 @@ Users should be able to:
 
 ### Screenshot
 
-![127 0 0 1_5500_Frontend_Mentor-5thChallenge_index html(iPhone 6_7_8)](https://user-images.githubusercontent.com/107861444/182201761-54a22a4e-ed8a-4fe5-b175-b19b1f555389.png)
-![127 0 0 1_5500_Frontend_Mentor-5thChallenge_index html](https://user-images.githubusercontent.com/107861444/182201853-3301ef94-4495-4d67-b7dc-16138fe358aa.png)
+📱 Mobile
+
+![Mobile](./assets/images/mobile.png)
+
+💻 Desktop
+
+![Desktop](./assets/images/desktop.png)
 
 ### Links
 
-- Solution URL: [https://github.com/fermop/Frontend_Mentor-5thChallenge](https://github.com/fermop/Frontend_Mentor-5thChallenge)
-- Live Site URL: [https://fermop.github.io/Frontend_Mentor-5thChallenge/](https://fermop.github.io/Frontend_Mentor-5thChallenge/)
+- Live Site Here: [https://fermop.github.io/Frontend_Mentor-5thChallenge/](https://fermop.github.io/Frontend_Mentor-5thChallenge/)
 
 ## My process
 
@@ -55,4 +61,4 @@ Users should be able to:
 
 - Frontend Mentor - [@fermop](https://www.frontendmentor.io/profile/fermop)
 - Instagram - [fermop_](https://www.instagram.com/fermop_/)
-- Twitter - [@fermop_](https://twitter.com/fermop_)
+- Facebook - [Fernando Mojica](https://www.facebook.com/fernando.mojica.758737/)
