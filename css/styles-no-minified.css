@@ -99,7 +99,6 @@ body{
     font-size: 0.6875rem;
     text-align: center;
     margin-top: 2em;
-    display: none;
 }
 .attribution a{
     color: var(--Dark-cyan);
